@@ -31,8 +31,15 @@ _This would make this text italic_
         * Like
     * This
 
+## Hard Breaks
 This poetry is very smart,
 
 Each new line is a new start,
 
 Or is it?
+
+## Soft Breaks
+
+> This petry *is* very smart,  
+> *Each* new line *is* a new *start*,  
+> It *is*!
